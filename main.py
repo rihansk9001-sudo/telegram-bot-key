@@ -23,7 +23,7 @@ def custom_to_dict(self):
 InlineKeyboardButton.to_dict = custom_to_dict
 
 # ================= 1. TOKENS & CONFIG =================
-TOKEN = '8579040508:AAGJ90ZJi62kXCKKtcJ3kR2oO7NdwLXUJ3A'
+TOKEN = '8609194789:AAFeNSlJKOsyfXxR8mgULSl902O9qpnCumU'
 DATABASE_URL = "postgresql://postgres.jhhmwbivhohvcicyuxqe:mQcGVnP7gMFHQjYE@aws-1-ap-southeast-1.pooler.supabase.com:6543/postgres?sslmode=require"
 
 ADMIN_ID = 1484173564
